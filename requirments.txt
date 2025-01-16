@@ -1,0 +1,9 @@
+aiogram==3.0.0  # For working with Telegram API
+python-dotenv==1.0.0  # For managing environment variables
+aiohttp==3.8.1  # For asynchronous HTTP requests
+uvloop==0.17.0  # For faster event loop (optional)
+motor==3.1.1  # If you're using MongoDB
+pyrogram==2.0.106  # Alternative Telegram framework (if needed)
+pymongo==4.4.1  # MongoDB driver
+redis==5.0.0  # For caching or state management
+async-timeout==4.0.2  # Timeout support for async operations
